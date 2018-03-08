@@ -1,0 +1,4 @@
+LineNumber;OrderItemId;OrderId;BuyerName;BuyerEmail;Address;Postcode;SalePrice;ShippingPrice;SKU;OrderDate;Status
+1;1;1;Bela;bela@gmail.com;asd;1111;23;10;123-abc;2018-01-01;IN_STOCK
+2;2;1;asd;basd@gmail.com;something somewhere;1111;20;9;234-abc;2018-02-02;IN_STOCK
+3;2;2;aaaa;aaaaaa@aaaa.com;test;1223;20;10.1;234-ert;;OUT_OF_STOCK
